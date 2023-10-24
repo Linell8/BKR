@@ -1,0 +1,14 @@
+.main-screen-bg {
+    background: rgba(231, 212, 190, 0.44);;
+}
+
+.video-img {
+    background-image: url(/img/video.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-hover:hover {
+    background-color: #E7D4BE !important;
+    transition: 0.2s ease-in-out;
+}
