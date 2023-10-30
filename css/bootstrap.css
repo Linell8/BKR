@@ -12074,16 +12074,16 @@ textarea.form-control-lg {
 
 @font-face {
   font-family: 'oswald';
-  src: url(./fonts/Oswald-Regular.ttf);
+  src: url(../fonts/Oswald-Regular.ttf);
 }
 
 @font-face {
   font-family: 'ultra';
-  src: url(./fonts/Ultra-Regular.ttf);
+  src: url(../fonts/Ultra-Regular.ttf);
 }
 
 @font-face {
   font-family: 'sans';
-  src: url(./fonts/DMSans-Regular.ttf);
+  src: url(../fonts/DMSans-Regular.ttf);
 }
 /*# sourceMappingURL=bootstrap.css.map */
