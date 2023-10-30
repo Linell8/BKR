@@ -3,7 +3,7 @@
 }
 
 .video-img {
-    background-image: url(img/video.jpg);
+    background-image: url(../img/video.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
